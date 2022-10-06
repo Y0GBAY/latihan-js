@@ -1,2 +1,2 @@
 # latihan-js
-belajar javascript Areta Informatic Collage 
+belajar javascript AIC 
